@@ -85,4 +85,5 @@ To deploy the application in your AWS account, you can use the SAM CLI's guided 
 
 ```
 https://www.youtube.com/watch?v=J0aEfUUervE
+https://www.baeldung.com/spring-boot-aws-lambda
 ```
